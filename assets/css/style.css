@@ -1,0 +1,141 @@
+/**
+* All page settings
+*/
+
+/* form layout */
+.form-label, .form-control, .form-select, .euroSymbol {
+    font-size: 100%;
+}
+
+/* titles layout */
+h1 {
+    font-size: 160%;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* pages background color */
+body, .card {
+    background-color: azure;
+}
+
+/**
+* Index page settings
+*/
+
+/* card, link and form Layout */
+.card-title, .nav-link, .details {
+    font-size: 80%;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.card-text {
+    font-size: 70%;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Buttons Layout */
+.addButton, .detailButton {
+    font-size: 70%;
+}
+
+/* End */
+
+
+
+/**
+* Form buttons layout
+*/
+
+/* buttons Layout */
+.formButton  {
+    font-size: 100%;
+}
+
+.buttonSize {
+    width: 70px;
+}
+
+/* End */
+
+
+
+/**
+ * Error color
+ */
+.error {
+    color: #DC143C;
+}
+/* End */
+
+
+
+/**
+* Default Page
+*/
+header {
+    margin-top : 6rem;
+}
+
+footer {
+    margin-top : 8rem;
+}
+
+/* End */
+
+
+/**
+* Home page
+*/
+.carousel-page {
+    max-width: 100%;
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    background-color: #403d3d;
+    text-align: center;
+}
+
+.carImg {
+    width: 380px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.carouselTitle {
+    font-size: 130%;
+    font-weight: bold;
+}
+
+/* End */
+
+
+
+
+
+
+/**Brouillon*************/
+/*.carousel-caption {
+    color: gold;
+    font-weight: bold;
+}*/
+
+/*.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}*/
+/* End */
+
+/**
+*Ajustement des images sans les pixéliser
+*/
+/*img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}*/
+
+

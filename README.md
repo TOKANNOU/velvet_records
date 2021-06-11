@@ -40,8 +40,8 @@ Suppression d'un disque
 
 <img src="deleteDisc.gif" />
 
-## Présentation globale :  
-Tout le site est responsive et répond aux normes W3C.
+## Présentation globale du site :  
+Toutes les pages sont responsive et répondent aux normes W3C.
 
 <img src="responsivePages.gif" />
 

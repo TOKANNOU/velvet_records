@@ -35,7 +35,12 @@ Présentation de la page contenant le formulaire d'ajout d'un nouveau disque ave
 
 <img src="addDisc.gif" />
 
-## __Phase 5:__
+## __Phase 5:__  
+Gestion de l'upload d'une image.
+
+<img src="uploadDisc.gif" />
+
+## __Phase 6:__
 Suppression d'un disque
 
 <img src="deleteDisc.gif" />

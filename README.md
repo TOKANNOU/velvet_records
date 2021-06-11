@@ -1,10 +1,16 @@
 # velvet_records
-Gestion d'un CRUD en PHP POO MVC sur la base de données record
+Réalisation d'un CRUD en PHP POO MVC afin de valider mes acquis.
 
-Objectif: Ce projet 
+## __Contexte:__  
+Ce projet consiste à gérer une base de données __SQL__ contenant une liste de CD vinyles.
+Pour ce faire, j'ai mis en place un __CRUD__ suivant l'architecture __MVC__ entièrement réalisé en PHP.
 
-	MCD :
- 
-Type de relation 1:n
-Dans ce cas, la clé primaire «customer_number» de l’entité de la cardinalité (0,n) migre vers celle du côté (1,1) et devient une clé étrangère. Si l’association « Passe » avait des propriétés, elles migreraient aussi vers l’entité côté (1,1). Aussi, la flèche de liaison pointe toujours du côté (1,n). On obtient donc :
+## __Phase 1:__  
+Réalisation de la page d'accueil du site qui affiche une sélection de disques dans un carousel d'images. 
+On peut accéder aux détails d'un disc en cliquant sur son image.
+
+<img src="homePage.gif" />
+
+
+
 
